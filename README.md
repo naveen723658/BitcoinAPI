@@ -35,6 +35,7 @@ for logout use
 - go to project directory where manage.py file 
 
 - you need to run migration first
+
 -`python manage.py makemigration`
 
 -`python manage.py migrate` 
