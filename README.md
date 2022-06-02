@@ -40,7 +40,7 @@ for logout use
 
 -`python manage.py migrate` 
  
-- run using python manage.py runserver
+- run using `python manage.py runserver`
  
 - Start the server. Go to <localhost>
 
